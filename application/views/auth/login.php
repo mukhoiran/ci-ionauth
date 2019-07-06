@@ -21,7 +21,7 @@
   </p>
 
 
-  <p><?php echo form_submit('submit', lang('login_submit_btn'));?></p>
+  <p><?php echo form_submit('submit', lang('login_submit_btn'));?> <?php echo anchor('auth/register', lang('register'))?> </p>
 
 <?php echo form_close();?>
 

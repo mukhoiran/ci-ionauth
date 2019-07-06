@@ -146,3 +146,6 @@ $lang['reset_password_validation_new_password_confirm_label'] = 'Confirm New Pas
 
 //Logout
 $lang['logout'] = 'Logout';
+
+//Register
+$lang['register'] = 'Register';
