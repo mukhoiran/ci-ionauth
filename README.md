@@ -1,2 +1,2 @@
 # ci-ionauth
-Documentation Codeigniter Ion Auth 3
+Codeigniter Ion Auth 3
